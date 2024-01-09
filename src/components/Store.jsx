@@ -33,7 +33,7 @@ const Store = () => {
             id="category-list"
             onChange={handleCategoryChange}
           >
-            <option value="todos">Todos</option>
+            <option value="">Todos</option>
             <option value="bebidas">Bebidas</option>
             <option value="desayuno">Desayuno</option>
             <option value="almuerzo">Almuerzo</option>
