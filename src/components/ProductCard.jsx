@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useState, useEffect } from "react";
 import Card from "./Card";
 import { useRef } from "react";
@@ -11,15 +12,7 @@ const paragraphStyles = {
   display: "-webkit-box",
 };
 
-const ProductCard = ({
-  id,
-  name,
-  description,
-  price,
-  img,
-  category,
-  stock,
-}) => {
+const ProductCard = ({ id, name, description, price, img, stock }) => {
   const [readMore, setReadMore] = useState(false);
   const [showReadMore, setShowReadMore] = useState(false);
 
@@ -39,11 +32,11 @@ const ProductCard = ({
 
   return (
     <Card>
-      <div className="flex rounded border w-[300px] gap-5 shadow-xl p-5 relative">
+      <div className="flex justify-around rounded border w-[300px] gap-5 shadow-xl p-5 relative">
         <div className="text-sm">
           <h3 className="font-semibold">{name}</h3>
           <p
-            className="pt-2"
+            className="pt-2 w-[200px]"
             style={readMore ? null : paragraphStyles}
             ref={ref}
           >
@@ -63,21 +56,26 @@ const ProductCard = ({
             <p className="font-semibold text-red-500">SIN STOCK</p>
           )}
         </div>
-        <div className="w-[140px] h-[140px]">
+
+        <div className="flex flex-col">
           <img
             src={img}
-            className={`object-cover ${stock ? "grayscale-0" : "grayscale"}`}
+            className={`w-[60px] h-[60px] object-cover ${
+              stock ? "grayscale-0" : "grayscale"
+            }`}
           />
-        </div>
 
-        {stock && (
-          <button
-            className="font-semibold text-xl absolute rounded right-8 bottom-8 border h-9 w-9 flex items-center justify-center"
-            onClick={() => increaseCartQuantity(id, name, price)}
-          >
-            +
-          </button>
-        )}
+          {stock && (
+            <div className="mt-[5rem]">
+              <button
+                className="font-semibold text-xl absolute rounded right-8 bottom-8 border h-9 w-9 flex items-center justify-center"
+                onClick={() => increaseCartQuantity(id, name, price)}
+              >
+                +
+              </button>
+            </div>
+          )}
+        </div>
       </div>
     </Card>
   );

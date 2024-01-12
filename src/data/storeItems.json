@@ -68,7 +68,7 @@
     "name": "Iced Latte",
     "description": "Medida de espresso con leche, espuma y hielo. Sabor a eleccíon. Vaso largo. Molienda de granos arábicos de especialidad importados.",
     "price": 1500,
-    "img": "/images/Ice_latee.jpg",
+    "img": "/images/Ice_latte.jpg",
     "category": "cafeteria",
     "stock": true
   },
