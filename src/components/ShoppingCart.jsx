@@ -53,7 +53,7 @@ const ShoppingCart = ({ isOpen }) => {
         {displayWappButton && (
           <div className="flex items-center justify-center mt-10">
             <a
-              href={`https://wa.me/543794390681?text= Hola Merceditas! Quiero pedirte:${encodeURIComponent(
+              href={`https://wa.me/543794892202?text= Hola Merceditas! Quiero pedirte:${encodeURIComponent(
                 whatsappText
               )}`}
             >
