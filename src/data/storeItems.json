@@ -1,112 +1,220 @@
 [
   {
     "id": 1,
-    "name": "cafe colombia",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 1500,
-    "img": "/images/cafe-bombon-cremoso.jpg",
-    "category": "bebidas",
+    "name": "Café Americano",
+    "description": "Medida de espresso con bypass. Vaso mediano. Molienda de granos arábicos de especialidad importados.",
+    "price": 1000,
+    "img": "/images/Cafe_1.jpg",
+    "category": "cafeteria",
     "stock": true
   },
   {
     "id": 2,
-    "name": "revuelto",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 2000,
-    "img": "/images/revuelto.jpg",
-    "category": "almuerzo",
-    "stock": false
+    "name": "LongBlack",
+    "description": "Doble espresso con bypass. Vaso mediano. Molienda de granos arábicos de especialidad importados.",
+    "price": 1200,
+    "img": "/images/Cafe_2.jpg",
+    "category": "cafeteria",
+    "stock": true
   },
   {
     "id": 3,
-    "name": "cafe especial",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 3500,
-    "img": "/images/medialunas.webp",
-    "category": "desayuno",
+    "name": "Café con Leche",
+    "description": "Medida de espresso con leche y espuma. Vaso mediano. Molienda de granos arábicos de especialidad importados.",
+    "price": 1000,
+    "img": "/images/Cafe_1.jpg",
+    "category": "cafeteria",
     "stock": true
   },
   {
     "id": 4,
-    "name": "cafe economico",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 900,
-    "img": "/images/especial.webp",
-    "category": "bebidas",
-    "stock": false
+    "name": "Latte",
+    "description": "Medida de espresso con leche y espuma. Vaso largo. Molienda de granos arábicos de especialidad importados.",
+    "price": 1300,
+    "img": "/images/Cafe_2.jpg",
+    "category": "cafeteria",
+    "stock": true
   },
 
   {
     "id": 5,
-    "name": "cafe colombia",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
+    "name": "Latte Saborizado",
+    "description": "Latte que incluye a elección: avellana, vainilla o caramel.",
     "price": 1500,
-    "img": "/images/cafe-bombon-cremoso.jpg",
-    "category": "bebidas",
+    "img": "/images/Cafe_2.jpg",
+    "category": "cafeteria",
     "stock": true
   },
   {
     "id": 6,
-    "name": "revuelto",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 2000,
-    "img": "/images/revuelto.jpg",
-    "category": "almuerzo",
+    "name": "FlatWhite",
+    "description": "Doble espresso con leche y espuma. Vaso largo. Molienda de granos arábicos de especialidad importados.",
+    "price": 1300,
+    "img": "/images/Cafe_2.jpg",
+    "category": "cafeteria",
     "stock": true
   },
   {
     "id": 7,
-    "name": "cafe especial",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 3500,
-    "img": "/images/medialunas.webp",
-    "category": "desayuno",
+    "name": "Capuccino",
+    "description": "Medida de espresso con chocolate aguila, cacao amargo, leche y espuma. Vaso largo. Molienda de granos arábicos de especialidad importados.",
+    "price": 1300,
+    "img": "/images/Capuccino.jpg",
+    "category": "cafeteria",
     "stock": true
   },
   {
     "id": 8,
-    "name": "cafe economico",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 900,
-    "img": "/images/especial.webp",
-    "category": "bebidas",
+    "name": "Iced Latte",
+    "description": "Medida de espresso con leche, espuma y hielo. Sabor a eleccíon. Vaso largo. Molienda de granos arábicos de especialidad importados.",
+    "price": 1500,
+    "img": "/images/Ice_latee.jpg",
+    "category": "cafeteria",
     "stock": true
   },
 
   {
     "id": 9,
-    "name": "cafe colombia",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 1500,
-    "img": "/images/cafe-bombon-cremoso.jpg",
-    "category": "bebidas",
+    "name": "FlatWhite frío",
+    "description": "Doble espresso con leche, espuma y hielo. Vaso largo. Molienda de granos arábicos de especialidad importados.",
+    "price": 1400,
+    "img": "/images/Flat_frio.jpg",
+    "category": "cafeteria",
     "stock": true
   },
   {
     "id": 10,
-    "name": "revuelto",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 2000,
-    "img": "/images/revuelto.jpg",
-    "category": "almuerzo",
+    "name": "Chocolate",
+    "description": "Chocolatada Aguila, puede ser fría o caliente. Vaso largo.",
+    "price": 1500,
+    "img": "/images/Choco.jpg",
+    "category": "cafeteria",
     "stock": true
   },
   {
     "id": 11,
-    "name": "cafe especial",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 3500,
-    "img": "/images/medialunas.webp",
-    "category": "desayuno",
+    "name": "Licuado de Banana",
+    "description": "Licuado de bananas con leche y azúcar.",
+    "price": 1000,
+    "img": "/images/banana.jpeg",
+    "category": "cafeteria",
     "stock": true
   },
   {
     "id": 12,
-    "name": "cafe economico",
-    "description": "Lorem ipsum dolor cositumm. Lorem ipsum dolor cositumm.",
-    "price": 900,
-    "img": "/images/especial.webp",
-    "category": "bebidas",
+    "name": "Jugo de Naranjas",
+    "description": "100% naranjas frescas naturales exprimidas. ",
+    "price": 1000,
+    "img": "/images/naranja.jpeg",
+    "category": "cafeteria",
+    "stock": true
+  },
+  {
+    "id": 13,
+    "name": "Licuado de Frutillas",
+    "description": "100% frutillas frescas naturales licuadas con leche y azúcar.",
+    "price": 1300,
+    "img": "/images/frutilla.jpeg",
+    "category": "cafeteria",
+    "stock": false
+  },
+  {
+    "id": 14,
+    "name": "Té",
+    "description": "Té negro, boldo, manzanilla o tilo.",
+    "price": 500,
+    "img": "/images/te.jpeg",
+    "category": "cafeteria",
+    "stock": true
+  },
+  {
+    "id": 15,
+    "name": "Mate Cocido",
+    "description": "Mate cocido Taragüi.",
+    "price": 500,
+    "img": "/images/mate.jpeg",
+    "category": "cafeteria",
+    "stock": true
+  },
+  {
+    "id": 16,
+    "name": "Chipá",
+    "description": "Porción de 100g de chipá tradicional regional.",
+    "price": 800,
+    "img": "/images/chipa.jpeg",
+    "category": "panificados",
+    "stock": true
+  },
+  {
+    "id": 17,
+    "name": "Medialuna Salada",
+    "description": "Facturita de masa salada. Horneada.",
+    "price": 450,
+    "img": "/images/Mediaslunas.jpg",
+    "category": "panificados",
+    "stock": true
+  },
+  {
+    "id": 18,
+    "name": "Medialuna Dulce",
+    "description": "Facturita de masa pincelada en almíbar. Horneada.",
+    "price": 450,
+    "img": "/images/Mediaslunas.jpg",
+    "category": "panificados",
+    "stock": true
+  },
+  {
+    "id": 19,
+    "name": "Croissant",
+    "description": "Factura salada de gran tamaño. Horneada.",
+    "price": 1000,
+    "img": "/images/revuelto.jpg",
+    "category": "panificados",
+    "stock": true
+  },
+  {
+    "id": 20,
+    "name": "Sacramento",
+    "description": "Croissant horneado, relleno con jamón y queso.",
+    "price": 1500,
+    "img": "/images/revuelto.jpg",
+    "category": "panificados",
+    "stock": true
+  },
+  {
+    "id": 21,
+    "name": "Tostado",
+    "description": "Sandwich de jamón natural de cerdo y queso.",
+    "price": 1000,
+    "img": "/images/revuelto.jpg",
+    "category": "panificados",
+    "stock": false
+  },
+  {
+    "id": 22,
+    "name": "Tostado Pan de Campo",
+    "description": "Sandwich de pan de campo, con doble queso y jamón natural de cerdo.",
+    "price": 2000,
+    "img": "/images/revuelto.jpg",
+    "category": "panificados",
+    "stock": true
+  },
+  {
+    "id": 23,
+    "name": "Ciabatta JyQ",
+    "description": "Sandwich de pan italiano crujiente, con jamón y queso.",
+    "price": 2200,
+    "img": "/images/revuelto.jpg",
+    "category": "panificados",
+    "stock": true
+  },
+  {
+    "id": 24,
+    "name": "Ciabatta Jamón Crudo",
+    "description": "Sandwich de pan italiano crujiente con albahaca y tomate cherry con un toque de aceite de oliva, jamón crudo y cremoso..",
+    "price": 2500,
+    "img": "/images/revuelto.jpg",
+    "category": "panificados",
     "stock": true
   }
 ]
