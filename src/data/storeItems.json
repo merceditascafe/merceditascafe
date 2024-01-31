@@ -68,7 +68,7 @@
     "name": "Iced Latte",
     "description": "Medida de espresso con leche, espuma y hielo. Sabor a eleccíon. Vaso largo. Molienda de granos arábicos de especialidad importados.",
     "price": 1500,
-    "img": "/images/Ice latee.jpg",
+    "img": "/images/Ice_latee.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -78,7 +78,7 @@
     "name": "FlatWhite frío",
     "description": "Doble espresso con leche, espuma y hielo. Vaso largo. Molienda de granos arábicos de especialidad importados.",
     "price": 1700,
-    "img": "/images/Flat frio.jpg",
+    "img": "/images/Flat_frio.jpg",
     "category": "cafeteria",
     "stock": true
   },
