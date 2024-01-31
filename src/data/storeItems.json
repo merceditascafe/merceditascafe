@@ -4,7 +4,7 @@
     "name": "Café Americano",
     "description": "Medida de espresso con bypass. Vaso mediano. Molienda de granos arábicos de especialidad importados.",
     "price": 1100,
-    "img": "/images/Cafe 1.jpg",
+    "img": "/images/Cafe_1.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -13,7 +13,7 @@
     "name": "LongBlack",
     "description": "Doble espresso con bypass. Vaso mediano. Molienda de granos arábicos de especialidad importados.",
     "price": 1400,
-    "img": "/images/Cafe 2.jpg",
+    "img": "/images/Cafe_2.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -22,7 +22,7 @@
     "name": "Café con Leche",
     "description": "Medida de espresso con leche y espuma. Vaso mediano. Molienda de granos arábicos de especialidad importados.",
     "price": 1200,
-    "img": "/images/Cafe 1.jpg",
+    "img": "/images/Cafe_1.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -31,7 +31,7 @@
     "name": "Latte",
     "description": "Medida de espresso con leche y espuma. Vaso largo. Molienda de granos arábicos de especialidad importados.",
     "price": 1400,
-    "img": "/images/Cafe 2.jpg",
+    "img": "/images/Cafe_2.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -41,7 +41,7 @@
     "name": "Latte Saborizado",
     "description": "Latte que incluye a elección: avellana, vainilla o caramel.",
     "price": 1600,
-    "img": "/images/Cafe 2.jpg",
+    "img": "/images/Cafe_2.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -50,7 +50,7 @@
     "name": "FlatWhite",
     "description": "Doble espresso con leche y espuma. Vaso largo. Molienda de granos arábicos de especialidad importados.",
     "price": 1500,
-    "img": "/images/Cafe 2.jpg",
+    "img": "/images/Cafe_2.jpg",
     "category": "cafeteria",
     "stock": true
   },
