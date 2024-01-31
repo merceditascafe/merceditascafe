@@ -3,8 +3,8 @@
     "id": 1,
     "name": "Café Americano",
     "description": "Medida de espresso con bypass. Vaso mediano. Molienda de granos arábicos de especialidad importados.",
-    "price": 1000,
-    "img": "/images/Cafe_1.jpg",
+    "price": 1100,
+    "img": "/images/Cafe 1.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -12,8 +12,8 @@
     "id": 2,
     "name": "LongBlack",
     "description": "Doble espresso con bypass. Vaso mediano. Molienda de granos arábicos de especialidad importados.",
-    "price": 1200,
-    "img": "/images/Cafe_2.jpg",
+    "price": 1400,
+    "img": "/images/Cafe 2.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -21,8 +21,8 @@
     "id": 3,
     "name": "Café con Leche",
     "description": "Medida de espresso con leche y espuma. Vaso mediano. Molienda de granos arábicos de especialidad importados.",
-    "price": 1000,
-    "img": "/images/Cafe_1.jpg",
+    "price": 1200,
+    "img": "/images/Cafe 1.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -30,8 +30,8 @@
     "id": 4,
     "name": "Latte",
     "description": "Medida de espresso con leche y espuma. Vaso largo. Molienda de granos arábicos de especialidad importados.",
-    "price": 1300,
-    "img": "/images/Cafe_2.jpg",
+    "price": 1400,
+    "img": "/images/Cafe 2.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -40,8 +40,8 @@
     "id": 5,
     "name": "Latte Saborizado",
     "description": "Latte que incluye a elección: avellana, vainilla o caramel.",
-    "price": 1500,
-    "img": "/images/Cafe_2.jpg",
+    "price": 1600,
+    "img": "/images/Cafe 2.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -49,8 +49,8 @@
     "id": 6,
     "name": "FlatWhite",
     "description": "Doble espresso con leche y espuma. Vaso largo. Molienda de granos arábicos de especialidad importados.",
-    "price": 1300,
-    "img": "/images/Cafe_2.jpg",
+    "price": 1500,
+    "img": "/images/Cafe 2.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -58,7 +58,7 @@
     "id": 7,
     "name": "Capuccino",
     "description": "Medida de espresso con chocolate aguila, cacao amargo, leche y espuma. Vaso largo. Molienda de granos arábicos de especialidad importados.",
-    "price": 1300,
+    "price": 1500,
     "img": "/images/Capuccino.jpg",
     "category": "cafeteria",
     "stock": true
@@ -68,7 +68,7 @@
     "name": "Iced Latte",
     "description": "Medida de espresso con leche, espuma y hielo. Sabor a eleccíon. Vaso largo. Molienda de granos arábicos de especialidad importados.",
     "price": 1500,
-    "img": "/images/Ice_latte.jpg",
+    "img": "/images/Ice latee.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -77,8 +77,8 @@
     "id": 9,
     "name": "FlatWhite frío",
     "description": "Doble espresso con leche, espuma y hielo. Vaso largo. Molienda de granos arábicos de especialidad importados.",
-    "price": 1400,
-    "img": "/images/Flat_frio.jpg",
+    "price": 1700,
+    "img": "/images/Flat frio.jpg",
     "category": "cafeteria",
     "stock": true
   },
@@ -95,7 +95,7 @@
     "id": 11,
     "name": "Licuado de Banana",
     "description": "Licuado de bananas con leche y azúcar.",
-    "price": 1000,
+    "price": 1500,
     "img": "/images/banana.jpeg",
     "category": "cafeteria",
     "stock": true
@@ -104,7 +104,7 @@
     "id": 12,
     "name": "Jugo de Naranjas",
     "description": "100% naranjas frescas naturales exprimidas. ",
-    "price": 1000,
+    "price": 1500,
     "img": "/images/naranja.jpeg",
     "category": "cafeteria",
     "stock": true
@@ -113,11 +113,11 @@
     "id": 13,
     "name": "Licuado de Frutillas",
     "description": "100% frutillas frescas naturales licuadas con leche y azúcar.",
-    "price": 1300,
+    "price": 1500,
     "img": "/images/frutilla.jpeg",
     "category": "cafeteria",
     "stock": false
-  },
+  },  
   {
     "id": 14,
     "name": "Té",
@@ -149,20 +149,20 @@
     "id": 17,
     "name": "Medialuna Salada",
     "description": "Facturita de masa salada. Horneada.",
-    "price": 450,
+    "price": 500,
     "img": "/images/Mediaslunas.jpg",
     "category": "panificados",
     "stock": true
-  },
+  }, 
   {
     "id": 18,
     "name": "Medialuna Dulce",
     "description": "Facturita de masa pincelada en almíbar. Horneada.",
-    "price": 450,
+    "price": 500,
     "img": "/images/Mediaslunas.jpg",
     "category": "panificados",
     "stock": true
-  },
+  }, 
   {
     "id": 19,
     "name": "Croissant",
@@ -171,16 +171,16 @@
     "img": "/images/revuelto.jpg",
     "category": "panificados",
     "stock": true
-  },
+  }, 
   {
     "id": 20,
     "name": "Sacramento",
     "description": "Croissant horneado, relleno con jamón y queso.",
-    "price": 1500,
+    "price": 2000,
     "img": "/images/revuelto.jpg",
     "category": "panificados",
     "stock": true
-  },
+  }, 
   {
     "id": 21,
     "name": "Tostado",
@@ -189,7 +189,7 @@
     "img": "/images/revuelto.jpg",
     "category": "panificados",
     "stock": false
-  },
+  }, 
   {
     "id": 22,
     "name": "Tostado Pan de Campo",
@@ -198,7 +198,7 @@
     "img": "/images/revuelto.jpg",
     "category": "panificados",
     "stock": true
-  },
+  }, 
   {
     "id": 23,
     "name": "Ciabatta JyQ",
@@ -207,7 +207,7 @@
     "img": "/images/revuelto.jpg",
     "category": "panificados",
     "stock": true
-  },
+  }, 
   {
     "id": 24,
     "name": "Ciabatta Jamón Crudo",
